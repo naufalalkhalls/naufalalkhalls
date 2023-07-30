@@ -1,6 +1,6 @@
 ### Hi! 👋 I'm Naufal Alkhalis.
 
-I am a sixth semester student at Syiah Kuala University, majoring in informatics. I am very interested in and passionate about data science and data analytics. I have experience using SQL, Python, and Tableau to analyze and visualize data. My curiosity and determination have helped me on my journey to become a data scientist and analyst. I also have passion and also experience in front end developer
+I am an experienced Machine Learning Developer with in-depth knowledge of various machine learning algorithms using Tensorflow. Additionally, I possess strong data analysis skills, being proficient in cleaning, transforming, and efficiently analyzing data to gain meaningful insights. My ability to implement complex machine learning models and optimize their performance adds value to the projects I work on. As an ML Engineer, my strengths lie in a deep understanding of algorithms, meticulous data preprocessing skills, and the capability to develop and deploy models in production environments. Moreover, I am also adept at project management, which contributes to the success of the projects I handle.
 
 - 🌱 I’m currently learning about Machine Learning and Data Science
 - 📫 How to reach me: naufal_alk@mhs.unsyiah.ac.id
